@@ -11,4 +11,4 @@ The next step is to figure out any information we can about the email. Using an 
 Looking at the profile of Cortney's account we see that he is a lead security analyst at opticalsocial. We can conclude from this that anonhunter26 also works at opticalsocial. Looking at the twitter account for optical social doesn't turn up anything so we do a google search for the company (use quotes around opticalsocial). The first link after we do this is a GitHub account where the username is Oswald-Denman. In the profile of the account we can see that they are a senior software developer at opticalsocial. If we look back at anonhunter26's twitter profile we can see that they are a senior software developer at a small startup. Opticalsocial is a small startup so we can reasonably assume that Oswald Denman is the full name of anonhunter26.
 
 ### Flag
-`$submit osu{Oswald_Denman}`
+`osu{Oswald_Denman}`
